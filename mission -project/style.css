@@ -1,0 +1,79 @@
+body {
+  background-color: aqua;
+  background-image: url(IMG-20230817-WA0022.jpg);
+  background-size: auto;
+}
+.host {
+  display: flex;
+  flex-direction: row;
+  background-color: aquamarine;
+  height: 100px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+
+  z-index: 1000;
+}
+.buga {
+  padding-top: 130px;
+}
+.elli {
+  padding-left: 10px;
+}
+.email {
+  padding-left: 25%;
+  padding-top: 10px;
+}
+.lass {
+  font-size: 30px;
+  font-family: serif;
+  padding-left: 60px;
+}
+.verb {
+  font-size: 25px;
+  line-height: 2.1;
+}
+.numb {
+  padding-left: 30px;
+  padding-top: 10px;
+}
+.flood {
+  float: left;
+}
+.expert {
+  padding-top: 20px;
+}
+.lass {
+  padding-left: 14px;
+}
+.fleet {
+  float: left;
+  padding-left: 10px;
+}
+.reas {
+  padding-top: 10px;
+  padding-left: 70%;
+}
+.last {
+  padding-left: 10%;
+}
+.webpag {
+  margin-top: 25%;
+}
+img {
+  transition: transform 0.3s;
+  border-radius: 10px;
+}
+img:hover {
+  transform: scale(1.1);
+}
+a {
+  text-decoration: none;
+  color: blue;
+  padding-top: 35px;
+  padding-left: 15%;
+}
+
+a:hover {
+  color: orange;
+}
